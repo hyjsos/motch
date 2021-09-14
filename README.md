@@ -1,8 +1,11 @@
-# motch
-Morck Client Powered by Netch
+# What is it?
+
+Clients that provide support for sspanel or v2board
+
+Powered by Netch
 
 
-#preview
+# Preview
 
 ![Alt text](https://github.com/morckclient/motch/blob/main/preview01.png)
 ![Alt text](https://github.com/morckclient/motch/blob/main/preview02.png)
