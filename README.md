@@ -2,8 +2,10 @@
 
 Clients that provide support for sspanel or v2board
 
-Powered by Netch
+Windows、Mac、Android、IOS
 
+# Telegram
+[channel](https://t.me/morckgroup)
 
 # Preview
 
