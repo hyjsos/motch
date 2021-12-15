@@ -2,7 +2,7 @@
 
 Clients that provide support for sspanel or v2board
 
-Windows、Mac、Android、IOS
+Windows、Mac
 
 # Telegram
 [channel](https://t.me/morckgroup)
