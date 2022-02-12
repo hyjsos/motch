@@ -1,7 +1,5 @@
 # What is it?
 
-Morck Client
-
 Clients that provide support for sspanel or v2board
 
 Windows、MacOS
