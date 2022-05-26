@@ -6,10 +6,10 @@
 
 <br/>
 
-[![Telegram Channel](https://img.shields.io/badge/news-t.me%2Fsspanel_uim-0d86d7?style=flat-square)](https://t.me/morckgroup)
-[![Telegram Chat](https://img.shields.io/badge/chat-t.me%2Fssunion-0d86d7?style=flat-square)](https://t.me/morckcsq)
+[Telegram Channel](https://t.me/morckgroup)
+[Telegram Chat](https://t.me/morckcsq)
 
-[对接文档](https://doc.morck.xyz) | [更新日志](https://github.com/morckclient/motch/releases) 
+[Docking documentation](https://doc.morck.xyz) | [Update Release](https://github.com/morckclient/motch/releases) 
 
 
 # Preview
