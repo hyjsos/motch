@@ -1,8 +1,8 @@
 # What is it?
 
-Clients that provide support for sspanel or v2board
+Customized client for sspanel and v2board
 
-Windows、MacOS
+Available for Windows, MacOS
 
 # Telegram
 [channel](https://t.me/morckgroup)
