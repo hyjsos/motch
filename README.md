@@ -6,8 +6,7 @@
 
 <br/>
 
-[Telegram Channel](https://t.me/morckgroup)
-[Telegram Chat](https://t.me/morckcsq)
+[Telegram Channel](https://t.me/morckgroup) | [Telegram Chat](https://t.me/morckcsq)
 
 [Docking documentation](https://doc.morck.xyz) | [Update Release](https://github.com/morckclient/motch/releases) 
 
