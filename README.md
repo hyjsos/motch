@@ -1,6 +1,6 @@
 <img src="https://github.com/morckclient/motch/blob/main/Morck.png" alt="logo" width="130" height="130" align="left" />
 
-<h1>SSPanel UIM</h1>
+<h1>Morck-PC</h1>
 
 > Customized client for sspanel and v2board
 
